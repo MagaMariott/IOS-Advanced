@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Худи Stop corruption",
+    "description": "Stylish hoodie with a unique design that represents modern problems.",
+    "price": 21990,
+    "image": "dubai1",
+    "sizes": ["XS", "S", "M", "L"]
+  },
+  {
+    "id": 2,
+    "name": "Шорты Алаш 1917",
+    "description": "Lite short with minimalistic design and high-quality fabric.",
+    "price": 10500,
+    "image": "shorty_1917",
+    "sizes": ["XS", "S", "M", "L"]
+  },
+  {
+    "id": 3,
+    "name": "Футболка Алаш 1917",
+    "description": "Mild tshirt about Alash movement.",
+    "price": 15000,
+    "image": "futbolka_1917",
+    "sizes": ["XS", "S", "M", "L"]
+  },
+  {
+    "id": 4,
+    "name": "Футболка Автономия",
+    "description": "Strange tshirt with circle design.",
+    "price": 15000,
+    "image": "no",
+    "sizes": ["XS", "S", "M", "L"]
+  },
+  {
+    "id": 5,
+    "name": "Худи Erekse",
+    "description": "High-quality hoodie with a strong Kazakh word shows the level of self-confidence.",
+    "price": 19500,
+    "image": "erekshe",
+    "sizes": ["XS", "S", "M", "L"]
+  },
+  {
+    "id": 6,
+    "name": "Худи Три лица",
+    "description": "Jempir with a unique art.",
+    "price": 21000,
+    "image": "3face",
+    "sizes": ["XS", "S", "M", "L"]
+  },
+  {
+    "id": 7,
+    "name": "Худи Оренбург",
+    "description": "Stylish hoodie with a unique design that represents qazaq country.",
+    "price": 19000,
+    "image": "orenburg",
+    "sizes": ["XS", "S", "M", "L"]
+  },
+  {
+    "id": 8,
+    "name": "Футболка 3 = 1",
+    "description": "Lite tshirt with minimalistic design and high-quality fabric.",
+    "price": 10000,
+    "image": "1=3",
+    "sizes": ["XS", "S", "M", "L"]
+  },
+  {
+    "id": 9,
+    "name": "Футболка Семей",
+    "description": "Most iconic tshirt from Alas' capital city.",
+    "price": 15000,
+    "image": "semey",
+    "sizes": ["XS", "S", "M", "L"]
+  },
+  {
+    "id": 10,
+    "name": "Костюм Alas",
+    "description": "Kostyum total Alas.",
+    "price": 15000,
+    "image": "rasprodaja",
+    "sizes": ["XS", "S", "M", "L"]
+  }
+]
